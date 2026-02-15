@@ -1,0 +1,16 @@
+{
+  "name": "ora-swarm-truth-oracle",
+  "version": "1.0.0",
+  "description": "A decentralized multi-agent swarm for on-chain fact verification using ORA AI Oracle on Base.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ideerhunter/ora-swarm-truth-oracle.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
